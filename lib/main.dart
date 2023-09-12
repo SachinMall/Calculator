@@ -182,11 +182,12 @@ class _CalculatorAppState extends State<CalculatorApp> {
         margin: const EdgeInsets.all(8),
         child: ElevatedButton(
           style: ElevatedButton.styleFrom(
-              shape: RoundedRectangleBorder(
-                borderRadius: BorderRadius.circular(30),
-              ),
-              backgroundColor: buttonBgColor,
-              padding: const EdgeInsets.all(22)),
+            shape: RoundedRectangleBorder(
+              borderRadius: BorderRadius.circular(60),
+            ),
+            backgroundColor: buttonBgColor,
+            padding: const EdgeInsets.all(22),
+          ),
           onPressed: () => onButtonClick(text),
           child: Text(
             text,
