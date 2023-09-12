@@ -1,0 +1,25 @@
+{
+    "files.trimTrailingWhitespace": true,
+    "editor.fontSize": 14,
+    "editor.formatOnSave": true,
+    "settingsSync.ignoredSettings": [],
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true
+    },
+    "dart.debugExternalPackageLibraries": false,
+    "dart.debugSdkLibraries": false,
+    "explorer.confirmDelete": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "dart.showInspectorNotificationsForWidgetErrors": false,
+    "dart.flutterSdkPath": "C:/Users/sachi/AppData/Local/Android/Sdk",
+    "git.enableSmartCommit": true,
+    "editor.accessibilitySupport": "off",
+    "files.autoSave": "afterDelay",
+    "diffEditor.codeLens": true,
+    "gitlens.advanced.messages": {
+        "suppressLineUncommittedWarning": true
+    },
+    "dart.openDevTools": "flutter",
+    "workbench.colorTheme": "Default Dark+",
+    "editor.guides.bracketPairs": "active",
+}
